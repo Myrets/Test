@@ -1,0 +1,25 @@
+@media only screen and (max-width: 760px) {
+    #divMadia{
+        width: 750px;
+    }
+    ul{
+        background: #ccc;
+        list-style: none;
+        padding: 10px;
+    }
+    li{
+        background-color: cornflowerblue;
+        font-size: 20px;
+        color: aliceblue;
+        margin: 5px;
+        padding: 10px;
+        position: absolute;
+        top: 50%
+    }
+    .flrxContainer{
+        display: inline-flex;
+        justify-content: space-between;
+        position: absolute;
+        top: 50%
+    }
+}
